@@ -56,5 +56,9 @@ Se debe revisar que estrategia tiene Montevideo ya que al ser la ciudad con mayo
 
 
 
+<img width="1023" height="614" alt="image" src="https://github.com/user-attachments/assets/fc38b955-d6b9-4362-99aa-8e1ba3b12d93" />
+
+
+
 De acuerdo a lo revisado, se puede considerar Ciudad de Mexico, y Sao Paulo
 
